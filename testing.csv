@@ -1,0 +1,17 @@
+jenis_kelamin,pekerjaan,status,ipk
+laki,mhs,belum,2.7
+laki,mhs,belum,3.17
+laki,bekerja,belum,3.3
+perempuan,mhs,belum,3.01
+perempuan,mhs,menikah,3.25
+laki,bekerja,menikah,3.2
+laki,bekerja,menikah,2.5
+perempuan,bekerja,menikah,3
+perempuan,bekerja,belum,2.7
+laki,bekerja,belum,2.4
+perempuan,mhs,menikah,2.5
+perempuan,mhs,belum,2.5
+perempuan,mhs,belum,3.5
+laki,bekerja,menikah,3.3
+laki,mhs,menikah,3.25
+laki,mhs,belum,2.3
